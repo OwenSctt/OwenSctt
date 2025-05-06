@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Owen Scott</h1>
-<h3 align="center">A Full Stack Web Developer</h3>
+<h3 align="center">A Full Stack Software Engineer</h3>
 
 - 🔭 I’m currently working on **A logistics Manager Full Stack App**
 
