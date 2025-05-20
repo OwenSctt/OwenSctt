@@ -5,7 +5,7 @@
 
 - 👨‍💻 Previews of my projects are available at [OwenWebStudio.com](OwenWebStudio.com)
 
-- ⚡ Fun fact **Im a Video Game nerd**
+- ⚡ Fun fact **Im a Video Game Nerd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
