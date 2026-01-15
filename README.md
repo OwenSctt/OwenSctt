@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A logistics Manager Full Stack App**
 
-- 👨‍💻 Previews of my projects are available at [OwenWebStudio.com](OwenWebStudio.com)
+- 👨‍💻 Previews of my projects are available at (OwenWebStudio.com)
 
 - ⚡ Fun fact **Im a Video Game Nerd**
 
